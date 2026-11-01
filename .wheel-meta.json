@@ -1,0 +1,22 @@
+{
+  "wheel_id": 630,
+  "structure": "umbrella",
+  "slug": "ballarathomeloanbroker-153",
+  "project": "home-loan-broker-ballarat-myths-087ee01d36d09a4802eb0baab037c93",
+  "parent_t1_ref": "ballarathomeloanbroker-012",
+  "node_role": "buffer",
+  "money_target": "ballarathomeloanbroker.com.au",
+  "primary_kw": "home loan broker ballarat myths",
+  "intended_url": "https://sitesau.github.io/ballarathomeloanbroker-153/",
+  "tier": "T2",
+  "writeback_nonce": "b6b7ad9db5afce68",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-loan-broker-ballarat-012/",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
